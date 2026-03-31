@@ -33,6 +33,8 @@ Drafted two professional emails and created a Social Media Do's and Don'ts check
 Wrote a case study on Phishing / UPI Fraud and created a Stay Safe Online prevention hecklist with reporting resources.
 
 ## Links
-- 🔗 Google Form (Task 3):
-- 🔗 LinkedIn Profile: 
-- 🔗 GitHub Profile:
+- 🔗 Google Form (Task 3): https://docs.google.com/forms/d/e/1FAIpQLSefQvFEObVeN7vcz_7RfgnzCWBILYHunkVf60837MH0KOOcgQ/viewform?usp=publish-editor
+- 🔗 LinkedIn Profile: https://www.linkedin.com/in/ananya-tripathi-a60a5a3ba/
+- 🔗 GitHub Profile: https://github.com/ananyatripathi888-max
+- 🔗 Kaggle (Task 3): https://www.kaggle.com/ananya1602
+
